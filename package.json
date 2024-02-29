@@ -1,5 +1,5 @@
 {
-  "name": "niko-example-random",
+  "name": "check-evm-balance",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
