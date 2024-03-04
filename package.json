@@ -1,13 +1,14 @@
 {
   "name": "check-evm-balance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/weishengbin/check-evm-balance",
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/weishengbin/check-evm-balance"
+    "url": "git://github.com/weishengbin/check-evm-balance.git"
   },
   "keywords": [],
   "author": "",
