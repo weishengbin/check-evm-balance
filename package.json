@@ -1,6 +1,6 @@
 {
   "name": "check-evm-balance",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,14 +8,14 @@
   "homepage": "https://github.com/weishengbin/check-evm-balance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/weishengbin/check-evm-balance.git"
+    "url": "https://github.com/weishengbin/check-evm-balance"
   },
   "keywords": [],
   "author": "weishengbin",
   "license": "ISC",
   "dependencies": {
     "@mofei22/random-www": "^1.0.1",
-    "check-evm-balance": "^1.0.3",
+    "check-evm-balance": "^1.0.4",
     "web3": "^4.5.0"
   },
   "devDependencies": {
